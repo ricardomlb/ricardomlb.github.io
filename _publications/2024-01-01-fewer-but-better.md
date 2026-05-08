@@ -1,6 +1,7 @@
 ---
 title: "Fewer but Better? Revisiting the Role of Fertility Decline in Economic Growth"
 collection: publications
+category: manuscripts
 permalink: /publication/fewer-but-better
 date: 2026-05-08
 venue: 'Working Paper'
