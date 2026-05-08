@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ricardo M. López Busch"
 title_separator          : "-"
 name                     : &name "Ricardo M. López Busch"
-description              : &description "This website contains information about my profesional profile."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "This website contains information about my profesional profile."   # Update this with a general description of your site, this is the default if not overridden
 url                      : https://ricardomlb.github.io # The base hostname & protocol for your site e.g. "https://ricardomlb.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ricardomlb"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
