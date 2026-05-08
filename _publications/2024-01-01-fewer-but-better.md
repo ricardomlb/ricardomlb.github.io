@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fewer-but-better
 date: 2026-05-08
 venue: 'Working Paper'
-paperurl: 'https://yourusername.github.io/files/Fewer_but_Better__Revisiting_The_Role_of_Child_Quality_in_Modern_Economic_Growth (4).pdf'
+paperurl: 'https://ricardomlb.github.io/files/fewer-but-better.pdf'
 ---
 
 This paper revisits the theoretical relationship between fertility decline and economic growth. 
